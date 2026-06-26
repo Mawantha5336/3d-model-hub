@@ -101,7 +101,7 @@ We aim to make 3D Model Hub the best online viewer! Some features we\'re thinkin
 
 ## 🤝 Contributing
 
-Currently, this project is primarily developed by [rahuldkjain](https://github.com/rahuldkjain). As the project matures, contribution guidelines will be established. In the meantime, feel free to open issues for bugs or feature requests!
+Currently, this project is primarily developed by [Mawantha.D](https://github.com/Mawantha5336). As the project matures, contribution guidelines will be established. In the meantime, feel free to open issues for bugs or feature requests!
 
 ## 📜 License
 
